@@ -24,12 +24,12 @@ This task pane add-in shows how to consolidate data from multiple worksheets usi
     1.  On the Insert tab in Excel 2016, choose My Add-ins. 
     2.  In the Office Add-ins dialog box, choose Shared Folder.
     3.  Choose Consolidated Sales Report Sample, and then choose Insert.
-    4.  The add-in will open in a task pane to the right of the current worksheet as shown in this diagram. ![Consolidated Sales Report Sample](images/ConsolidatedSalesReport_taskpane.png)
+    4.  The add-in will open in a task pane to the right of the current worksheet.   
     5. The add-in adds three new sheets with sample data for three regions, Americas, Asia, and Europe and in the task pane, it presents you with checkboxes for all of the sheets in the workbook. Select two or three of the regional data sheets and click Consolidate. You should see a new sheet called Dashboard with consolidated data from the selected sheets. ![Consolidated Sales Report Sample](images/ConsolidatedSalesReport_report.png)
 
 ### Visual Studio version
 1.  Copy the project to a local folder. Then open the Excel-Add-in-JS-RangeHighlighter.sln in Visual Studio.
-2. Press F5 to build and deploy the sample add-in. This will launch Excel 2016 with the add-in loaded in the task pane as shown in this diagram.  ![Consolidated Sales Report Sample](images/ConsolidatedSalesReport_taskpane.png)
+2. Press F5 to build and deploy the sample add-in. This will launch Excel 2016 with the add-in loaded in the task pane.
 3.  The add-in adds three new sheets with sample data for three regions, Americas, Asia, and Europe and in the task pane, it presents you with checkboxes for all of the sheets in the workbook. Select two or three of the regional data sheets and click Consolidate. You should see a new sheet called Dashboard with consolidated data from the selected sheets. ![Consolidated Sales Report Sample](images/ConsolidatedSalesReport_report.png)
 
 
