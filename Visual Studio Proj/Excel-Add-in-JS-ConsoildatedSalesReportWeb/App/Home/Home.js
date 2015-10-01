@@ -9,7 +9,14 @@
 	// The initialize function must be run each time a new page is loaded
 	Office.initialize = function (reason) {
 		$(document).ready(function () {
-			app.initialize();
+		    app.initialize();
+
+		    // If not using Excel 2016, return
+		    if (!Office.context.requirements.isSetSupported('ExcelApi', '1.1')) {
+		        app.showNotification("Need Office 2016 or greater", "Sorry, this app only works with newer versions of Excel.");
+		        return;
+		    }
+
 
 			populateWorkbookWithRegionalSalesData();
 
