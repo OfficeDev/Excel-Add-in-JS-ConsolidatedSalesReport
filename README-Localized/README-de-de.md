@@ -11,9 +11,9 @@ Dieses Aufgabenbereich-Add-In zeigt, wie Daten aus mehreren Arbeitsblättern mit
 
 Am einfachsten können Sie Ihr Add-In bereitstellen und testen, indem Sie die Dateien in eine Netzwerkfreigabe kopieren.
 
-1.  Erstellen Sie einen Ordner in einer Netzwerkfreigabe (z.ä B. \\\MyShare\ConsolidatedSalesReport), und kopieren Sie alle Dateien in den Ordner „Code Editor”. 
+1.  Erstellen Sie einen Ordner in einer Netzwerkfreigabe (z. B. \\\MyShare\ConsolidatedSalesReport), und kopieren Sie alle Dateien in den Ordner „Code Editor”. 
 2.  Bearbeiten Sie das <SourceLocation>-Element der Manifestdatei, damit es auf den Freigabepfad aus Schrittä 1 zeigt. 
-3.  Kopieren Sie das Manifest (ConsolidatedSalesReportManifest.xml) in eine Netzwerkfreigabe (z.ä B. \\\MyShare\MyManifests).
+3.  Kopieren Sie das Manifest (ConsolidatedSalesReportManifest.xml) in eine Netzwerkfreigabe (z. B. \\\MyShare\MyManifests).
 4.  Fügen Sie den Freigabepfad, unter dem das Manifest enthalten ist, als vertrauenswürdigen App-Katalog in Excel hinzu.
 
     a. Starten Sie Excel, und öffnen Sie ein leeres Arbeitsblatt.  
@@ -34,7 +34,7 @@ Am einfachsten können Sie Ihr Add-In bereitstellen und testen, indem Sie die Da
     
   b. Wählen Sie im Dialogfenster **Office-Add-Ins** die Option **Freigegebener Ordner** aus.
     
-  c. Wählen Sie **Beispiel für konsolidierten Umsatzbericht**>**Einfügen**. The add-in opens in a task pane to the right of the current worksheet, as shown in the following figure. 
+  c. Wählen Sie **Beispiel für konsolidierten Umsatzbericht**>**Einfügen**. Das Add-In wird in einem Aufgabenbereich rechts neben dem aktuellen Arbeitsblatt geöffnet, wie in der folgenden Abbildung dargestellt. 
         
    ![Beispiel für konsolidierten Umsatzbericht](../images/ConsolidatedSalesReport_taskpane.PNG)
 
