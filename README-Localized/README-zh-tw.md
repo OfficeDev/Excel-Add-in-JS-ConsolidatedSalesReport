@@ -4,7 +4,7 @@ _適用於：Excel 2016_
 
 這個工作窗格增益集示範如何使用 Excel 2016 中的 JavaScript API，合併多個工作表中的資料。共有兩種型態︰程式碼編輯器和 Visual Studio。
 
-![綜合銷售報表範例](../Images/ConsolidatedSalesReport_report.PNG)
+![綜合銷售報表範例](../images/ConsolidatedSalesReport_report.PNG)
 
 ## <a name="try-it-out"></a>進行測試
 ### <a name="code-editor-version"></a>程式碼編輯器版本
@@ -36,21 +36,21 @@ _適用於：Excel 2016_
 
     c.選擇 **[綜合銷售報表範例]** > **[插入]**。增益集會在目前工作表右側的工作窗格中開啟，如下圖所示。
 
-   ![綜合銷售報表範例](../Images/ConsolidatedSalesReport_taskpane.PNG)
+   ![綜合銷售報表範例](../images/ConsolidatedSalesReport_taskpane.PNG)
 
     d.選取 [美洲、亞洲及歐洲 ] 核取方塊，並按一下 **[合併!]** 按鈕。這樣會建立新的儀表板工作表，其會顯示所有選定工作表的摘要檢視。
 
-  ![綜合銷售報表範例](../Images/ConsolidatedSalesReport_report.PNG)
+  ![綜合銷售報表範例](../images/ConsolidatedSalesReport_report.PNG)
 
 ### <a name="visual-studio-version"></a>Visual Studio 版本
 1.  將專案複製到本機資料夾，並在 Visual Studio 中開啟 Excel-Add-in-JS-ConsolidatedSalesReport.sln。
 2.  按 F5 建置及部署範例增益集。Excel 會啟動，且增益集會在工作表右側空白部分的工作窗格中開啟，如下圖所示。
 
-   ![綜合銷售報表範例](../Images/ConsolidatedSalesReport_taskpane.PNG)
+   ![綜合銷售報表範例](../images/ConsolidatedSalesReport_taskpane.PNG)
 
     d.選取 [美洲、亞洲及歐洲 ] 核取方塊，並按一下 **[合併!]** 按鈕。這樣會建立新的儀表板工作表，其會顯示所有選定工作表的摘要檢視。
 
-  ![綜合銷售報表範例](../Images/ConsolidatedSalesReport_report.PNG)
+  ![綜合銷售報表範例](../images/ConsolidatedSalesReport_report.PNG)
 
 
 ### <a name="learn-more"></a>深入了解

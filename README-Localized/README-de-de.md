@@ -4,7 +4,7 @@ _Gilt für: Excel 2016_
 
 Dieses Aufgabenbereich-Add-In zeigt, wie Daten aus mehreren Arbeitsblättern mithilfe der JavaScript-APIs in Excel 2016 zusammengeführt werden können. Es ist in zwei Versionen verfügbar: Code-Editor und Visual Studio.
 
-![Beispiel für konsolidierten Umsatzbericht](../Images/ConsolidatedSalesReport_report.PNG)
+![Beispiel für konsolidierten Umsatzbericht](../images/ConsolidatedSalesReport_report.PNG)
 
 ## <a name="try-it-out"></a>Probieren Sie es aus
 ### <a name="code-editor-version"></a>Code-Editor-Version
@@ -36,21 +36,21 @@ Am einfachsten können Sie Ihr Add-In bereitstellen und testen, indem Sie die Da
 
     c.  Wählen Sie **Beispiel für konsolidierten Umsatzbericht**>**Einfügen**. Das Add-In wird in einem Aufgabenbereich rechts neben dem aktuellen Arbeitsblatt geöffnet, wie in der folgenden Abbildung dargestellt.
 
-   ![Beispiel für konsolidierten Umsatzbericht](../Images/ConsolidatedSalesReport_taskpane.PNG)
+   ![Beispiel für konsolidierten Umsatzbericht](../images/ConsolidatedSalesReport_taskpane.PNG)
 
     d.  Aktivieren Sie die Kontrollkästchen „Nord-und Südamerika“, „Asien“ und „Europa“, und klicken Sie auf Schaltfläche **Konsolidieren**.  Dadurch wird die neues Arbeitsblatt „Dashboard“ erstellt, das eine Zusammenfassung aller ausgewählten Blätter darstellt.
 
-  ![Beispiel für konsolidierten Umsatzbericht](../Images/ConsolidatedSalesReport_report.PNG)
+  ![Beispiel für konsolidierten Umsatzbericht](../images/ConsolidatedSalesReport_report.PNG)
 
 ### <a name="visual-studio-version"></a>Visual Studio-Version
 1.  Kopieren Sie das Projekt in einen lokalen Ordner, und öffnen Sie die Datei „Excel-Add-in-JS-ConsolidatedSalesReport.sln“ in Visual Studio.
 2.  Drücken Sie F5, um das Beispiel-Add-In zu erstellen und bereitzustellen. Excel wird gestartet und das Add-In wird in einem Aufgabenbereich rechts neben einem leeren Arbeitsblatt geöffnet, wie in der folgenden Abbildung dargestellt.
 
-   ![Beispiel für konsolidierten Umsatzbericht](../Images/ConsolidatedSalesReport_taskpane.PNG)
+   ![Beispiel für konsolidierten Umsatzbericht](../images/ConsolidatedSalesReport_taskpane.PNG)
 
     d.  Aktivieren Sie die Kontrollkästchen „Nord-und Südamerika“, „Asien“ und „Europa“, und klicken Sie auf Schaltfläche **Konsolidieren**.  Dadurch wird die neues Arbeitsblatt „Dashboard“ erstellt, das eine Zusammenfassung aller ausgewählten Blätter darstellt.
 
-  ![Beispiel für konsolidierten Umsatzbericht](../Images/ConsolidatedSalesReport_report.PNG)
+  ![Beispiel für konsolidierten Umsatzbericht](../images/ConsolidatedSalesReport_report.PNG)
 
 
 ### <a name="learn-more"></a>Weitere Informationen

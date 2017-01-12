@@ -4,7 +4,7 @@ _S’applique à : Excel 2016_
 
 Ce complément de volet Office montre comment consolider les données de plusieurs feuilles de calcul à l’aide des API JavaScript dans Excel 2016. Il a deux versions : éditeur de code et Visual Studio.
 
-![Exemple de rapport consolidé sur les ventes](../Images/ConsolidatedSalesReport_report.PNG)
+![Exemple de rapport consolidé sur les ventes](../images/ConsolidatedSalesReport_report.PNG)
 
 ## <a name="try-it-out"></a>Essayez !
 ### <a name="code-editor-version"></a>Version d’éditeur de code
@@ -36,21 +36,21 @@ Pour déployer et tester votre complément, le plus simple consiste à copier le
 
     c.  Choisissez **Exemple de rapport consolidé sur les ventes**>**Insertion**. Le complément s’ouvre dans un volet Office à droite de la feuille de calcul active, comme indiqué dans l’illustration suivante.
 
-   ![Exemple de rapport consolidé sur les ventes](../Images/ConsolidatedSalesReport_taskpane.PNG)
+   ![Exemple de rapport consolidé sur les ventes](../images/ConsolidatedSalesReport_taskpane.PNG)
 
     d.  Cochez les cases Amériques, Asie et Europe, puis cliquez sur le bouton **Consolider**.  Cette action entraînera la création d’une feuille Tableau de bord qui présente une vue récapitulative de l’ensemble des feuilles sélectionnées.
 
-  ![Exemple de rapport consolidé sur les ventes](../Images/ConsolidatedSalesReport_report.PNG)
+  ![Exemple de rapport consolidé sur les ventes](../images/ConsolidatedSalesReport_report.PNG)
 
 ### <a name="visual-studio-version"></a>Version de Visual Studio
 1.  Copiez le projet dans un dossier local et ouvrez le fichier Excel-Add-in-JS-ConsolidatedSalesReport.sln dans Visual Studio.
 2.  Appuyez sur F5 pour créer et déployer l’exemple de complément. Excel démarre et le complément s’ouvre dans un volet Office à droite de la feuille de calcul active, comme indiqué dans l’illustration suivante.
 
-   ![Exemple de rapport consolidé sur les ventes](../Images/ConsolidatedSalesReport_taskpane.PNG)
+   ![Exemple de rapport consolidé sur les ventes](../images/ConsolidatedSalesReport_taskpane.PNG)
 
     d.  Cochez les cases Amériques, Asie et Europe, puis cliquez sur le bouton **Consolider**.  Cette action entraînera la création d’une feuille Tableau de bord qui présente une vue récapitulative de l’ensemble des feuilles sélectionnées.
 
-  ![Exemple de rapport consolidé sur les ventes](../Images/ConsolidatedSalesReport_report.PNG)
+  ![Exemple de rapport consolidé sur les ventes](../images/ConsolidatedSalesReport_report.PNG)
 
 
 ### <a name="learn-more"></a>En savoir plus

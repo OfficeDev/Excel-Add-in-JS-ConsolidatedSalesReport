@@ -4,7 +4,7 @@ _Область применения: Excel 2016_
 
 Этот пример надстройки области задач показывает, как объединять данные нескольких листов с помощью интерфейсов API JavaScript в Excel 2016. Надстройка представлена в двух вариантах — для редактора кода и для Visual Studio.
 
-![Пример сводного отчета о продажах](../Images/ConsolidatedSalesReport_report.PNG)
+![Пример сводного отчета о продажах](../images/ConsolidatedSalesReport_report.PNG)
 
 ## <a name="try-it-out"></a>Проверка
 ### <a name="code-editor-version"></a>Версия для редактора кода
@@ -36,21 +36,21 @@ _Область применения: Excel 2016_
 
     В.  Выберите элементы **Consolidated Sales Report Sample** (Пример надстройки для создания сводного отчета о продажах) > **Вставить**. Надстройка откроется в области задач справа от текущего листа, как показано на рисунке ниже.
 
-   ![Пример сводного отчета о продажах](../Images/ConsolidatedSalesReport_taskpane.PNG)
+   ![Пример сводного отчета о продажах](../images/ConsolidatedSalesReport_taskpane.PNG)
 
     Г.  Установите флажки "America" (Америка), "Asia" (Азия) и "Europe" (Европа), а затем нажмите кнопку **Consolidate!** (Объединить).  Будет создан новый лист "Dashboard" (Панель мониторинга) со сводными данными всех выбранных листов.
 
-  ![Пример сводного отчета о продажах](../Images/ConsolidatedSalesReport_report.PNG)
+  ![Пример сводного отчета о продажах](../images/ConsolidatedSalesReport_report.PNG)
 
 ### <a name="visual-studio-version"></a>Версия для Visual Studio
 1.  Скопируйте проект в локальную папку и откройте файл Excel-Add-in-JS-ConsolidatedSalesReport.sln в Visual Studio.
 2.  Нажмите клавишу F5, чтобы собрать и развернуть пример надстройки. Запустится Excel, а надстройка откроется в области задач справа от пустого листа, как показано на представленном ниже рисунке.
 
-   ![Пример сводного отчета о продажах](../Images/ConsolidatedSalesReport_taskpane.PNG)
+   ![Пример сводного отчета о продажах](../images/ConsolidatedSalesReport_taskpane.PNG)
 
     Г.  Установите флажки "America" (Америка), "Asia" (Азия) и "Europe" (Европа), а затем нажмите кнопку **Consolidate!** (Объединить).  Будет создан новый лист "Dashboard" (Панель мониторинга) со сводными данными всех выбранных листов.
 
-  ![Пример сводного отчета о продажах](../Images/ConsolidatedSalesReport_report.PNG)
+  ![Пример сводного отчета о продажах](../images/ConsolidatedSalesReport_report.PNG)
 
 
 ### <a name="learn-more"></a>Подробнее

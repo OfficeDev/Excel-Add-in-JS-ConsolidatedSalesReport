@@ -4,7 +4,7 @@ _Aplica-se a: Excel 2016_
 
 Esse suplemento do painel de tarefas mostra como consolidar dados de várias planilhas usando as APIs JavaScript no Excel 2016. Há dois tipos: o editor de código e o Visual Studio.
 
-![Exemplo de Relatório de Vendas Consolidado](../Images/ConsolidatedSalesReport_report.PNG)
+![Exemplo de Relatório de Vendas Consolidado](../images/ConsolidatedSalesReport_report.PNG)
 
 ## <a name="try-it-out"></a>Experimente
 ### <a name="code-editor-version"></a>Versão do editor de código
@@ -36,21 +36,21 @@ A maneira mais fácil de implantar e testar o suplemento é copiar os arquivos p
 
     c.  Escolha **Exemplo de Relatório de Vendas Consolidado**>**Inserir**. O suplemento abre em um painel de tarefas à direita da planilha atual, conforme mostrado na figura a seguir.
 
-   ![Exemplo de Relatório de Vendas Consolidado](../Images/ConsolidatedSalesReport_taskpane.PNG)
+   ![Exemplo de Relatório de Vendas Consolidado](../images/ConsolidatedSalesReport_taskpane.PNG)
 
     d.  Marque as caixas de seleção Américas, Ásia e Europa e clique no botão **Consolidar!**.  Isso criará a nova planilha Painel, que mostra um modo de exibição de resumo de todas as planilhas selecionadas.
 
-  ![Exemplo de Relatório de Vendas Consolidado](../Images/ConsolidatedSalesReport_report.PNG)
+  ![Exemplo de Relatório de Vendas Consolidado](../images/ConsolidatedSalesReport_report.PNG)
 
 ### <a name="visual-studio-version"></a>Versão do Visual Studio
 1.  Copie o projeto para uma pasta local e abra o Excel-Add-in-JS-ConsolidatedSalesReport.sln no Visual Studio.
 2.  Pressione F5 para criar e implantar o suplemento de exemplo. O Excel inicia e o suplemento abre em um painel de tarefas à direita da planilha em branco, conforme mostrado na figura a seguir.
 
-   ![Exemplo de Relatório de Vendas Consolidado](../Images/ConsolidatedSalesReport_taskpane.PNG)
+   ![Exemplo de Relatório de Vendas Consolidado](../images/ConsolidatedSalesReport_taskpane.PNG)
 
     d.  Marque as caixas de seleção Américas, Ásia e Europa e clique no botão **Consolidar!**.  Isso criará a nova planilha Painel, que mostra um modo de exibição de resumo de todas as planilhas selecionadas.
 
-  ![Exemplo de Relatório de Vendas Consolidado](../Images/ConsolidatedSalesReport_report.PNG)
+  ![Exemplo de Relatório de Vendas Consolidado](../images/ConsolidatedSalesReport_report.PNG)
 
 
 ### <a name="learn-more"></a>Saiba mais

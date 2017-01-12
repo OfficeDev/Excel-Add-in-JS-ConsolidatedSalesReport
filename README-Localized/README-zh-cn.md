@@ -4,7 +4,7 @@ _适用于：Excel 2016_
 
 此任务窗格外接程序介绍如何在 Excel 2016 中使用 JavaScript API 合并多个工作表的数据。它有两种类型：代码编辑器和 Visual Studio。
 
-![合并销售报表示例](../Images/ConsolidatedSalesReport_report.PNG)
+![合并销售报表示例](../images/ConsolidatedSalesReport_report.PNG)
 
 ## <a name="try-it-out"></a>尝试一下
 ### <a name="code-editor-version"></a>代码编辑器版本
@@ -36,21 +36,21 @@ _适用于：Excel 2016_
 
     c.依次选择“**合并销售额报表示例**”>“**插入**”。此时，系统会在当前工作表右侧的任务窗格中打开外接程序，如下图所示。
 
-   ![合并销售报表示例](../Images/ConsolidatedSalesReport_taskpane.PNG)
+   ![合并销售报表示例](../images/ConsolidatedSalesReport_taskpane.PNG)
 
     d.选中“美洲”、“亚洲”和“欧洲”复选框，然后单击“**合并!**”按钮。这会新建一个仪表板工作表，用于显示全部选定工作表的摘要视图。
 
-  ![合并销售报表示例](../Images/ConsolidatedSalesReport_report.PNG)
+  ![合并销售报表示例](../images/ConsolidatedSalesReport_report.PNG)
 
 ### <a name="visual-studio-version"></a>Visual Studio 版本
 1.  将项目复制到本地文件夹，并在 Visual Studio 中打开 Excel-Add-in-JS-ConsolidatedSalesReport.sln。
 2.  按 F5 生成并部署示例外接程序。Excel 启动并且外接程序会在空白工作簿右侧的任务窗格中打开，如下图所示。
 
-   ![合并销售报表示例](../Images/ConsolidatedSalesReport_taskpane.PNG)
+   ![合并销售报表示例](../images/ConsolidatedSalesReport_taskpane.PNG)
 
     d.选中“美洲”、“亚洲”和“欧洲”复选框，然后单击“**合并!**”按钮。这会新建一个仪表板工作表，用于显示全部选定工作表的摘要视图。
 
-  ![合并销售报表示例](../Images/ConsolidatedSalesReport_report.PNG)
+  ![合并销售报表示例](../images/ConsolidatedSalesReport_report.PNG)
 
 
 ### <a name="learn-more"></a>了解详细信息

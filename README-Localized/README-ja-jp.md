@@ -4,7 +4,7 @@ _適用対象:Excel 2016_
 
 この作業ウィンドウ アドインには、Excel 2016 で JavaScript API を使用して複数のワークシートからデータを統合する方法が示されます。コード エディターと Visual Studio のいずれかを選択できます。
 
-![統合された売上レポートのサンプル](../Images/ConsolidatedSalesReport_report.PNG)
+![統合された売上レポートのサンプル](../images/ConsolidatedSalesReport_report.PNG)
 
 ## <a name="try-it-out"></a>お試しください。
 ### <a name="code-editor-version"></a>コード エディターのバージョン
@@ -36,21 +36,21 @@ _適用対象:Excel 2016_
 
     c.**[統合売上レポートのサンプル]**>**[挿入]** の順に選択します。次の図に示すように、現在のワークシートの右側の作業ウィンドウでアドインが開きます。
 
-   ![統合された売上レポートのサンプル](../Images/ConsolidatedSalesReport_taskpane.PNG)
+   ![統合された売上レポートのサンプル](../images/ConsolidatedSalesReport_taskpane.PNG)
 
     d.[南北アメリカ]、[アジア]、[ヨーロッパ] のチェック ボックスをオンにし、**[統合]** ボタンをクリックします。選択したすべてのシートの概要ビューを表示する新しいダッシュボード シートが作成されます。
 
-  ![統合された売上レポートのサンプル](../Images/ConsolidatedSalesReport_report.PNG)
+  ![統合された売上レポートのサンプル](../images/ConsolidatedSalesReport_report.PNG)
 
 ### <a name="visual-studio-version"></a>Visual Studio のバージョン
 1.  プロジェクトをローカル フォルダーにコピーし、Excel-Add-in-JS-ConsolidatedSalesReport.sln を開きます。
 2.  F5 キーを押して、サンプル アドインをビルドおよび展開します。Excel が起動し、次の図に示すように、空白のワークシートの右側の作業ウィンドウでアドインが開きます。
 
-   ![統合された売上レポートのサンプル](../Images/ConsolidatedSalesReport_taskpane.PNG)
+   ![統合された売上レポートのサンプル](../images/ConsolidatedSalesReport_taskpane.PNG)
 
     d.[南北アメリカ]、[アジア]、[ヨーロッパ] のチェック ボックスをオンにし、**[統合]** ボタンをクリックします。選択したすべてのシートの概要ビューを表示する新しいダッシュボード シートが作成されます。
 
-  ![統合された売上レポートのサンプル](../Images/ConsolidatedSalesReport_report.PNG)
+  ![統合された売上レポートのサンプル](../images/ConsolidatedSalesReport_report.PNG)
 
 
 ### <a name="learn-more"></a>詳細を見る
